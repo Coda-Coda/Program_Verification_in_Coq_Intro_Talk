@@ -4,3 +4,4 @@ A short talk about Program Verification in Coq. Given at the Functional Programm
 * [Notes](https://coda-coda.github.io/Program_Verification_in_Coq_Intro_Talk/Program_Verification_in_Coq_Notes.pdf)
 * [Slides](https://coda-coda.github.io/Program_Verification_in_Coq_Intro_Talk/Program_Verification_in_Coq_Slides.pdf)
 * [Code](https://coda-coda.github.io/Program_Verification_in_Coq_Intro_Talk/Program_Verification_in_Coq_Code.v)
+* [Video](https://youtu.be/ZT5gQ_TTg5U)
